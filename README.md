@@ -1,16 +1,14 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Halooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
-## 🚀 About Me
+## 🚀 Tentang Saya
 
-🎓 I am Tapajyoti Bose, a **Front End Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2022.
+🎓 Perkenalkan nama saya Moh Lutfi Fadilah, seorang **Back End Web Developer** (ahli di **Laravel**) dan **Data Engineering**. Saya juga masih berkuliah mengambil S1 Sains Data (S.Si.D) di Institut Teknologi Telkom Purwokerto dan akan lulus pada tahun 2025.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently and made a name for myself.
+👨‍💻 Saya memiliki pribadi orang yang penasaran terhadap hal baru terutama tentang perkembangan dunia Teknologi Informasi. Saya suka tantangan dan itu membuat saya tertantang. Saya selalu ingin terus belajar dan meningkatkan skill di Data Engineering dan Back End Web Developer.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
+🎸 Di luar dunia teknologi juga, saya senang mendorong diri sendiri untuk mengembangkan keterampilan baru. Hobi saya adalah Bermain Musik **gitar & bass**, Mendaki **gunung & tebing**, dan Olahraga **futsal**.
 
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
-
-✈️ I love **traveling** too. I have been on solo trips to **Bhutan** in _2018_ and to **Hyderabad, India** in _2021_.
+✈️ Saya senang traveling juga.
 
 ## 🏅 Achievements
 
