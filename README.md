@@ -12,7 +12,7 @@
 
 ## 🏅 Pencapaian
 
--   🥇 **Juara 3 "Web Development"** di IT Expo Universitas Negeri Jakarta (March 2020)
+-   🥇 **Juara 3 "Web Development"** di IT Expo Universitas Negeri Jakarta (Desember 2020)
 
 ## 🛠️ Skills
 
